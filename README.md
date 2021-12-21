@@ -1,0 +1,2 @@
+# Chatboii-
+So this is chatboii a discord chatbot who likes to talk very much, He will always entertain you with something or the other, This is the developer Blaxe here and I guarantee that you will have fun with this bot, the bot is currently in development state and more commands will be added to it. It is for Indian servers as it has hindi commands in future updates I will add more english commands in this bot thank umands
